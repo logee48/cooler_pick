@@ -16,7 +16,7 @@ const label_color = ["red", "black", "green", "orange", "blue"];
 
 //four tile colors
 const colo = ["red", "blue", "yellow", "green", "black"];    /*need to work on same random number error*/
-const colo1 = ["blue", "yellow", "green", "black", "orange"];
+const colo1 = ["blue", "yellow", "green", "black", "orange"];   //need to add more colorss
 const colo2 = ["yellow", "green", "black", "orange", "blue"];
 const colo3 = ["green", "black", "orange", "blue", "yellow"];
 
