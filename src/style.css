@@ -1,0 +1,78 @@
+body
+{
+    padding: 0%;
+    margin: 0%;
+    background-color: beige;
+}
+#lable
+{
+    position: relative;
+    left: 25vw;
+    top: 5vw;
+    width: 50vw;
+    height: 10vw;
+    background-color: darkorchid;
+}
+#one
+{
+    position: relative;
+    left: 20vw;
+    top: 15vw;
+    width: 30vw;
+    height: 30vw;
+    background-color: red;
+}
+#two
+{
+    position: relative;
+    left: 55vw;
+    bottom: 15vw;
+    width: 30vw;
+    height: 30vw;
+    background-color: black;
+}
+#three
+{
+    position: relative;
+    left: 20vw;
+    bottom: 10vw;
+    width: 30vw;
+    height: 30vw;
+    background-color: yellow;
+}
+#four
+{
+    position: relative;
+    left: 55vw;
+    bottom: 40vw;
+    width: 30vw;
+    height: 30vw;
+    background-color: greenyellow;  
+}
+#score
+{
+    position: relative;
+    left: 45vw;
+    font-size: 10vw;
+    display: inline;
+}
+#timer
+{
+    font-size: 10vw;
+    display: inline;
+}
+#scorelabel
+{
+    position: relative;
+    left: 45vw;
+    display: inline;
+    font-size: 10vw;
+}
+#scoredisplay
+{
+    text-align: center;
+    width: 100vw;
+    height: 50vw;
+    background-color: aqua;
+    font-size: 20vw;
+}
